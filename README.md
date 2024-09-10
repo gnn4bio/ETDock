@@ -1,4 +1,5 @@
 # ETDock
+<img src="imgs/framwork.pdf">
 
 ## Installation
 ````
@@ -34,7 +35,7 @@ We use the prediction of the structure of protein ABL1 in complex with two drugs
 
     examples/prediction_example_using_PDB_6hd6.ipynb
 
-<img src="imgs/example_6hd6.png" width="200">
+
 
 
 ## Dataset construction
