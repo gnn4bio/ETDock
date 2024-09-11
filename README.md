@@ -1,6 +1,9 @@
 # ETDock
 
-<embed src="imgs/framwork.pdf" type="application/pdf" width=100% height=1000px></embed>
+<p align="center">
+  <img src="/imgs/framwork-1.png" width="1000">
+  <br />
+</p> 
 
 ## Installation
 ````
