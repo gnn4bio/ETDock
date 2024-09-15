@@ -43,6 +43,11 @@ We use the prediction of the structure of protein ABL1 in complex with two drugs
 
 
 ## Dataset construction
+We refer to the data processing of  “TANKBind: Trigonometry-Aware Neural NetworKs
+for Drug-Protein Binding Structure Prediction”。[Github](https://github.com/luwei0917/TankBind)
+
+The PDBbind dataset can be downloaded [here](http://pdbbind-cn.org).
+
 Scripts for training/test dataset construction is provided in:
 
     examples/construction_PDBbind_training_and_test_dataset.ipynb.ipynb
